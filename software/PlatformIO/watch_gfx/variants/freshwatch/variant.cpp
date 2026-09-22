@@ -85,4 +85,3 @@ void initVariant()
   digitalWrite(PIN_NEOPIXEL_PWR,1);
  
 }
-
