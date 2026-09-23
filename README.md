@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/3a3785d2-84e4-4510-96f3-b70b62eddb09
+
 
 # FreshWatch
 
@@ -25,6 +25,18 @@ This is a watch that can monitor air quality, with open-source hardware and soft
 - Display: LPM009M360A (0.85inch 72*144 )
 - Battery: 402030
 - watch band: 20mm
+
+#  Features
+
+-Monitor air quality
+-step counting
+-badusb(up to 10 max scripts can be updated/changed but webUI)
+-BLE hacking similar to bruce firmware
+-Webui through USB or bluetooth
+-BLE mesh, BLE 5.0 Long Range (Coded PHY and with ARM CryptoCell-310) and thread (emergency use)messaging
+-games: chrono-lock, flappy bird, dino runner, Tiny Stack and  Jetpack Cave
+-timer
+-settings
 
 
 
